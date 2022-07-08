@@ -1,0 +1,7 @@
+pane	0	1	1	:*	1	MacBook-Pro.local	:/Users/javier	1	zsh	:
+pane	nbsi	1	1	:*	1	MacBook-Pro.local	:/Users/javier/BibliU/nbsi/packages/database-schema	1	nvim	:nvim package.json
+pane	nbsi	2	0	:##-	1	MacBook-Pro.local	:/Users/javier/BibliU/nbsi	1	nvim	:nvim package.json
+window	0	1	:	1	:*	c73d,199x55,0,0,0	off
+window	nbsi	1	:schema	1	:*	c73e,199x55,0,0,1	off
+window	nbsi	2	:root	0	:##-	c73f,199x55,0,0,2	off
+state	nbsi	
